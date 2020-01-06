@@ -11,6 +11,7 @@
 <div class="container">
 
 <h1 class="display-4 text-center text-info">Découverte GIT / GITHUB</h1>
+<p class="alert alert-info p-2 text-center">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta cumque perferendis laborum nisi enim? Aliquam, suscipit inventore delectus natus ipsa fugiat. Molestiae quis labore nulla iure consequuntur provident praesentium vero.</p>
 </div>
     
 </body>
